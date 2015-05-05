@@ -1,0 +1,31 @@
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\bin\Debug\365VTC.exe.config
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\bin\Debug\365VTC.exe
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\bin\Debug\365VTC.pdb
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\MyUtility.Properties.Resources.resources
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\365VTC.csproj.GenerateResource.Cache
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\365VTC.exe
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\365VTC.pdb
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\MyUtility.OnlinePaymentApplication.resources
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\365VTC.csprojResolveAssemblyReference.cache
+D:\SHARE\Softwares For Developers\Utilities\365VTC\NewsHandler\obj\Debug\MyUtility.CellPhoneControl.resources
+D:\SHARE\Softwares For Developers\Utilities\365VTC\bin\Debug\365VTC.exe.config
+D:\SHARE\Softwares For Developers\Utilities\365VTC\bin\Debug\365VTC.exe
+D:\SHARE\Softwares For Developers\Utilities\365VTC\bin\Debug\365VTC.pdb
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\365VTC.csprojResolveAssemblyReference.cache
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\MyUtility.OnlinePaymentSoft.resources
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\MyUtility.Properties.Resources.resources
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\MyUtility.CellPhoneControl.resources
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\365VTC.csproj.GenerateResource.Cache
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\365VTC.exe
+D:\SHARE\Softwares For Developers\Utilities\365VTC\obj\Debug\365VTC.pdb
+E:\Softwares\Developer\Utilities\365VTC\bin\Debug\365VTC.exe.config
+E:\Softwares\Developer\Utilities\365VTC\bin\Debug\365VTC.exe
+E:\Softwares\Developer\Utilities\365VTC\bin\Debug\365VTC.pdb
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\MyUtility.OnlinePaymentSoft.resources
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\MyUtility.Properties.Resources.resources
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\MyUtility.CellPhoneControl.resources
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\365VTC.csproj.GenerateResource.Cache
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\365VTC.exe
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\365VTC.pdb
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\365VTC.csprojResolveAssemblyReference.cache
+E:\Softwares\Developer\Utilities\365VTC\obj\Debug\MyUtility.LoginForm.resources
